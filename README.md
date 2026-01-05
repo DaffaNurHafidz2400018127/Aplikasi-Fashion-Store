@@ -1,5 +1,3 @@
-# Aplikasi-Fashion-Store
-Tugas Project Sdata Kelompok 7
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
